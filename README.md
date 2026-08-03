@@ -23,7 +23,7 @@ Join our community for support, updates, and announcements: **https://discord.gg
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Download the latest release from the official website.
 2. Extract the files.
@@ -38,7 +38,7 @@ StellarClient is provided for educational and entertainment purposes. Minecraft 
 
 ---
 
-## ❤️ Support
+## Support
 
 If you enjoy the project, consider:
 
